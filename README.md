@@ -12,7 +12,7 @@
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 
-- 🔭 I am currently working on DevOps Concepts/Projects
+- 🔭 I am currently working on Devops Concepts/Projects
 
 - 👯 I am open to collaborating with anyone working on Cloud & DevOps concepts using ansible, terraform, EKS, CICD and other devops tools
 
